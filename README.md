@@ -2,6 +2,6 @@
 Project created during the web data storage course at @alura-cursos
 
 
-### Credts
+### Credits
 
 https://codepen.io/triciaakatz
